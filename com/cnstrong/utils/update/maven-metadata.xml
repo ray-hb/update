@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <metadata>
-  <groupId>com.cnstrong</groupId>
+  <groupId>com.cnstrong.utils</groupId>
   <artifactId>update</artifactId>
   <versioning>
     <latest>1.0</latest>
@@ -8,6 +8,6 @@
     <versions>
       <version>1.0</version>
     </versions>
-    <lastUpdated>20210923062547</lastUpdated>
+    <lastUpdated>20210923063959</lastUpdated>
   </versioning>
 </metadata>
