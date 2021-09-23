@@ -3,7 +3,7 @@
   "component": {
     "group": "com.cnstrong.utils",
     "module": "update",
-    "version": "2.0",
+    "version": "2.1",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,8 +24,8 @@
       },
       "files": [
         {
-          "name": "update-2.0.aar",
-          "url": "update-2.0.aar",
+          "name": "update-2.1.aar",
+          "url": "update-2.1.aar",
           "size": 50982,
           "sha512": "8f169c5de48b57794f11db3da79b85328bb4c8f8045a0129202e5fa0d5e629e7af8daf5bea383d848fe3bee1b80b6d12e0169bc7206f77df5b4dad9d7bdecaef",
           "sha256": "2177fdad448e45cf04a9834a14fb8cc5b806eba3db904a38f938378aed226337",
@@ -116,8 +116,8 @@
       ],
       "files": [
         {
-          "name": "update-2.0.aar",
-          "url": "update-2.0.aar",
+          "name": "update-2.1.aar",
+          "url": "update-2.1.aar",
           "size": 50982,
           "sha512": "8f169c5de48b57794f11db3da79b85328bb4c8f8045a0129202e5fa0d5e629e7af8daf5bea383d848fe3bee1b80b6d12e0169bc7206f77df5b4dad9d7bdecaef",
           "sha256": "2177fdad448e45cf04a9834a14fb8cc5b806eba3db904a38f938378aed226337",
