@@ -3,7 +3,7 @@
   "component": {
     "group": "com.cnstrong.utils",
     "module": "update",
-    "version": "2.1.2",
+    "version": "2.1.3",
     "attributes": {
       "org.gradle.status": "release"
     }
@@ -24,13 +24,13 @@
       },
       "files": [
         {
-          "name": "update-2.1.2.aar",
-          "url": "update-2.1.2.aar",
-          "size": 51538,
-          "sha512": "7463c9dc936aea8c070ed26fc225f74bb53b9a434cfac1302aa95ad777e4cc553d5038e02630ae99964ff89628439482d6551a820d80371b6ab6f489e5cfbd6c",
-          "sha256": "0d81a50f802711dca3f731c2d1295d17f89c65f557bd7a2d2be9050b140ab16c",
-          "sha1": "43c9ffe4970ebabd8e91126cc3b62b7838bdeee5",
-          "md5": "07fff103abfac61da0a6a70b3cd821b1"
+          "name": "update-2.1.3.aar",
+          "url": "update-2.1.3.aar",
+          "size": 51540,
+          "sha512": "217d2f4a0667b438092320993e3aaccd942d0be7f5db8857532b1c6bd1d568736633cea56a32a2706e3d734e7b7448cace2e48bfd2899b5064e0237c3723f331",
+          "sha256": "f02ea6d16c3e2b9eb2a781837b104a28b5161e77fd5fa34ad225396e62a8ada5",
+          "sha1": "fae2e9e0ae0785591ec61f88450df8f824ed32f6",
+          "md5": "4f9d4558ada18bfba91d28deba9f5401"
         }
       ]
     },
@@ -116,13 +116,13 @@
       ],
       "files": [
         {
-          "name": "update-2.1.2.aar",
-          "url": "update-2.1.2.aar",
-          "size": 51538,
-          "sha512": "7463c9dc936aea8c070ed26fc225f74bb53b9a434cfac1302aa95ad777e4cc553d5038e02630ae99964ff89628439482d6551a820d80371b6ab6f489e5cfbd6c",
-          "sha256": "0d81a50f802711dca3f731c2d1295d17f89c65f557bd7a2d2be9050b140ab16c",
-          "sha1": "43c9ffe4970ebabd8e91126cc3b62b7838bdeee5",
-          "md5": "07fff103abfac61da0a6a70b3cd821b1"
+          "name": "update-2.1.3.aar",
+          "url": "update-2.1.3.aar",
+          "size": 51540,
+          "sha512": "217d2f4a0667b438092320993e3aaccd942d0be7f5db8857532b1c6bd1d568736633cea56a32a2706e3d734e7b7448cace2e48bfd2899b5064e0237c3723f331",
+          "sha256": "f02ea6d16c3e2b9eb2a781837b104a28b5161e77fd5fa34ad225396e62a8ada5",
+          "sha1": "fae2e9e0ae0785591ec61f88450df8f824ed32f6",
+          "md5": "4f9d4558ada18bfba91d28deba9f5401"
         }
       ]
     }
